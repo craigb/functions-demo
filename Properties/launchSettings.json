@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "functions_demo": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7063",
+      "launchBrowser": false
+    }
+  }
+}
