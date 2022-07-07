@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "functions_demo": {
+    "src": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7063",
+      "commandLineArgs": "--port 7188",
       "launchBrowser": false
     }
   }
